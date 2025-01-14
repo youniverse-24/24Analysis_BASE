@@ -23,4 +23,4 @@ BOAZ 24기 분석 스터디 자료
 |week_13|25.04.10|VISION 논문 리뷰(미정)|
 
 ***
-Github 사용 안내 : [실습 시 Git Hub 사용 가이드라인]([https://oval-alligator-fbf.notion.site/Git-Hub-41c83d90653f448092abfa67a03c6f0f?pvs=4](https://oval-alligator-fbf.notion.site/Git-Hub-15c6710199ab8171bc44c081bb22aa00?pvs=4))
+Github 사용 안내 : [실습 시 Git Hub 사용 가이드라인](https://oval-alligator-fbf.notion.site/Git-Hub-41c83d90653f448092abfa67a03c6f0f?pvs=4)
