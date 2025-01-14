@@ -15,7 +15,6 @@ BOAZ 24기 분석 스터디 자료
 |week_5|25.02.13|NLP 논문 리뷰(Word2Vec, ELMo) / 미니프로젝트 중간 발표|
 |week_6|25.02.20|VISION 논문 리뷰(ResNet, EfficientNet)|
 |week_7|25.02.27|미니 프로젝트1 최종 발표|
-
 |week_8|25.03.06|NLP 논문 리뷰(Seq2Seq, Transformer)|
 |week_9|25.03.13|NLP 논문 리뷰(GPT-1, BERT)|
 |week_10|25.03.20|NLP 논문 리뷰(미정)|
